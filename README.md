@@ -32,11 +32,11 @@ Libraries used:
 [ViroAR by ViroMedia](https://viromedia.com/viroar)
 
 Prerequisites:
-Android -> An ARCore supported device
-iOS -> iOS Device with A9 chip or higher and running iOS 11 or higher.
+Android -> An ARCore supported device . 
+iOS -> iOS Device with A9 chip or higher and running iOS 11 or higher . 
 
 
-Make sure to have npm and node installed on your pc
+Make sure to have npm and node installed on your pc . 
 
 MACOS:
 https://blog.teamtreehouse.com/install-node-js-npm-mac
@@ -48,7 +48,7 @@ WINDOWS:
 https://blog.teamtreehouse.com/install-node-js-npm-windows
 
 --------------------------------------------------------
-Register into ViroMedia and generate a new API Key.  
+Register into ViroMedia and generate a new API Key . 
 Edit `App.js` under your project . 
 Download the ViroMedia test bed app:  
 
