@@ -1,6 +1,7 @@
 # AR_DOA
 
 School Project at Bonch-Bruevich Saint Petersburg State University of Telecommunications (SPBSUT) . 
+
 Russian: Санкт-Петербургский государственный университет телекоммуникаций (СПбГУТ) . 
 
 ## Goal
@@ -24,6 +25,7 @@ Screenshot of the Json provided by the REST Api in our case:
 ## Special thanks
 
 Mahmood Albahri - Teacher of DOA - IoT in СПбГУТ . 
+
 СПбГУТ to grand us access to the GHR of Russia . 
 
 ## Install
