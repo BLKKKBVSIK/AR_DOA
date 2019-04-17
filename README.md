@@ -23,8 +23,8 @@ Screenshot of the Json provided by the REST Api in our case:
 
 ## Special thanks
 
-Mahmood Albahri - Teacher of DOA - IoT in СПбГУТ.
-СПбГУТ to grand us access to the GHR of Russia.
+Mahmood Albahri - Teacher of DOA - IoT in СПбГУТ . 
+СПбГУТ to grand us access to the GHR of Russia . 
 
 ## Install
 
