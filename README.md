@@ -9,7 +9,7 @@ Russian: Санкт-Петербургский государственный у
 The goal was to make an AR application who related on DOA System . 
 
 What is DOA ?
-You can read about it [here (Russian)](www.sut.ru/doci/nauka/review/20174/64-70.pdf) or [here (English)]() .
+You can read about it [here in Russian](https://github.com/BLKKKBVSIK/AR_DOA/tree/master/doc/DOA-IoT-Russian.pdf) or [here in English](https://github.com/BLKKKBVSIK/AR_DOA/tree/master/doc/DOA-IoT-English.pdf) .
 
 ## Examples
 
@@ -57,6 +57,18 @@ https://blog.teamtreehouse.com/install-node-js-npm-windows
 
 Register into ViroMedia and generate a new API Key
 Edit `App.js` under your project
+
+Edit `HelloWorldSceneAR.js` in the `js` folder, and update the `_onClicked` fonction to put the link of the result Json of your handler.
+
+
+If you need to modify your handler manually, you can use the Handler.net tools:
+
+http://handle.net/download_hnr.html
+
+http://handle.net/hnr_documentation.html
+
+http://handle.net/proxy_servlet.html
+
 
 Download the ViroMedia testbed app:
 
