@@ -32,7 +32,10 @@ Mahmood Albahri - Teacher of DOA - IoT in СПбГУТ .
 
 ## Install
 
-Libraries used:
+Wanna try the app ? 
+See the [release](https://github.com/BLKKKBVSIK/AR_DOA/releases)
+
+Libraries used: 
 [ViroAR by ViroMedia](https://viromedia.com/viroar)
 
 Prerequisites:
