@@ -13,7 +13,7 @@ You can read about it [here in Russian](https://github.com/BLKKKBVSIK/AR_DOA/tre
 
 ## Examples
 
-On this example, the text of the application is fetched by a REST Api (provided by handle.net, you can also use doi.org) . 
+On this example, the text of the application is fetched by a REST Api (provided by handle.net, you can also use doi.org).  
 The API request the GHR (Global Handler Registery), who request itself a LHR (Local Handler Registery).
 
 Screenshot of the Json provided by the REST Api in our case:
@@ -32,34 +32,38 @@ Mahmood Albahri - Teacher of DOA - IoT in СПбГУТ .
 
 ## Install
 
-Wanna try the app ? 
+Wanna try the app ?  
 See the [release](https://github.com/BLKKKBVSIK/AR_DOA/releases)
 
-Libraries used: 
+The release is Android only since i don't own an Apple Developer account.
+
+### Prerequisites:
+
+Libraries used:  
 [ViroAR by ViroMedia](https://viromedia.com/viroar)
 
-Prerequisites:
-
-Android -> An ARCore supported device .
-
-iOS -> iOS Device with A9 chip or higher and running iOS 11 or higher . 
+Android -> An ARCore supported device  
+iOS -> iOS Device with A9 chip or higher and running iOS 11 or higher  
 
 
 Make sure to have npm and node installed on your pc . 
 
-MACOS:
+MACOS:  
 https://blog.teamtreehouse.com/install-node-js-npm-mac
 
-LINUX:
+LINUX:  
 https://blog.teamtreehouse.com/install-node-js-npm-linux
 
-WINDOWS:
+WINDOWS:  
 https://blog.teamtreehouse.com/install-node-js-npm-windows
 
 --------------------------------------------------------
 
-Register into ViroMedia and generate a new API Key
-Edit `App.js` under your project
+
+This is deprecated since Viro is going [open source](https://blog.viromedia.com/viro-is-going-open-source-be9da0b43328).
+
+~~Register into ViroMedia and generate a new API Key Viro  
+Edit `App.js` under your project~~
 
 Edit `HelloWorldSceneAR.js` in the `js` folder, and update the `_onClicked` fonction to put the link of the result Json of your handler.
 
