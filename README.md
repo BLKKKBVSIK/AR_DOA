@@ -1,3 +1,5 @@
+![Not maintened](https://img.shields.io/maintenance/no/2019)
+
 # AR_DOA
 
 School Project at Bonch-Bruevich Saint Petersburg State University of Telecommunications (SPBSUT) . 
